@@ -1,6 +1,6 @@
-# Wallet Guide for Dummies(retards)
+# Wallet Guide for Beginners
 
-This guide assumes that you have already installed the [ANON Full Node Wallet](TODO:link), and followed [this guide](https://gist.github.com/kaypon/4e6863e26f21fca9f5b8b350350912a1).
+This guide assumes that you have already installed the [ANON Full Node Wallet](TODO:link), and followed [this guide](https://gist.github.com/kaypon/4e6  863e26f21fca9f5b8b350350912a1).
 
 
 ## Install the wallet. (MAC)
