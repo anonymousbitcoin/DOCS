@@ -8,6 +8,22 @@ Normal level issues can be submitted to the respective repositories "Issues" sec
 - [Full Node Wallet Issues](https://github.com/anonymousbitcoin/anon-full-node-wallet/issues)
 - [Sentinel Issues](https://github.com/anonymousbitcoin/sentinel/issues)
 
+When submitting an issue please ensure that the following points are covered:
+
+### Expected behavior and actual behavior.
+
+A short explanation of what is the expected result of what you are trying to do, as well as the actual result. Try and compare the two different outcomes.
+
+### Steps to reproduce the problem.
+
+A short description of how you were able to find the bug, and the steps required to reproduce it.
+
+### System Specifications
+
+The full specifications of your system. We use this to determine if it is a code related problem, or something to do with your environment.
+
+## Submitting an issue
+
 It is important to understand that issues submitted through other means, such as Discord or Reddit, will not be considered issues until stated on their respective repositories. 
 
 Creating an issue is easy and only requires a GitHub account to submit.
