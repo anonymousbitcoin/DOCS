@@ -103,3 +103,53 @@ Alternatively, if you wish to download the latest version, it can be found in th
 **NOTE:** the file `AnonymousDesktopWallet-1.1.0.jar` **MUST** be placed within the same directory as your `anond` and `anon-cli`. The wallet uses both those compiled binary files to communicate to the blockchain. Without those two files, the wallet **will not** work.
 
 ## Windows Guide
+
+Assuming you have correctly installed the full node, locate the folder that contains the anon source code and `anond` and `anon-cli` executable files. 
+
+If you installed through WSL, it might be in a strange place similar to:
+
+```bash
+C:\Users\PCNAME\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\my_linux_env\anon\src
+```
+
+Using WSL, go through the same steps as Linux:
+
+```
+cd ~/path/to/anon/
+
+cd /src/
+
+git clone https://github.com/anonymousbitcoin/anon-full-node-wallet.git
+
+cd anon-full-node-wallet
+
+./gradlew clean fatjar
+
+cd build/libs
+
+chmod u+x AnonymousDesktopWallet-1.1.0.jar
+
+mv AnonymousDesktopWallet-1.1.0.jar ../../../
+
+cd ../../../
+```
+
+This is where things start to get confusing. You can try run the wallet with the following command (or double click it):
+
+```bash
+java -jar AnonymousDesktopWallet-1.1.0.jar
+```
+
+If this doesn't work, it's likely that its failing to start the `anond` daemon. This can be solved by using Powershell and moving to the directory mentioned earlier:
+
+```bash
+cd C:\Users\PCNAME\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\my_linux_env\anon\src
+```
+
+Once you are within the `src` directory, enter the command:
+
+```bash
+.\anond -daemon
+```
+
+This will start the server manually. Once the server is running, you can then double click the `AnonymousDesktopWallet-1.1.0.jar` file and it should run the wallet successfully.
