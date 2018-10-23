@@ -10,11 +10,11 @@ To vote for the proposal, copy the TX HASH in the first column. Paste that into 
 
 > ![wallet_ss1](https://assets.anonfork.io/gov_images/wallet_ss4_pasteGobject.png "Proposal appears on the wallet")
 
-Now that you've copied and pasted the TX HASH, you can then edit the parameters of your vote. The three dropdowns to the right of the text input section partain to the following information:
+Now that you've copied and pasted the TX HASH, you can then edit the parameters of your vote. The three dropdowns to the right of the text input section pertain to the following information:
 
 - Object Funding - Select `funding` to vote for funding. The other options `delete` and `valid` are used by sentinel and should not be selected.
 - Vote Option - The options for voting are `YES`, `NO` or `ABSTAIN`.
-- Masternode to vote from - Dropdown list of your masternodes to chose from.
+- Masternode to vote from - Dropdown list of your masternodes to choose from.
 
 The Vote Buttons do the following:
 
@@ -23,7 +23,7 @@ The Vote Buttons do the following:
 
 > ![wallet_ss1](https://assets.anonfork.io/gov_images/wallet_ss6_choose_and_vote.png "Proposal appears on the wallet")
 
-Once you're ready, you can click either the Vote Alias button or the Vote All button. Afterwhich you should receive an output summarizing your votes. It should look something like this (with your masternode aliases):
+Once you're ready, you can click either the Vote Alias button or the Vote All button. After which you should receive an output summarizing your votes. It should look something like this (with your masternode aliases):
 
 > ![gobject_voting_result](https://assets.anonfork.io/gov_images/gobject_voting_result.png "Voting result")
 
