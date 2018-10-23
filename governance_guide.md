@@ -110,7 +110,7 @@ If you wish to vote for your proposal (or any other proposal), you can click on 
 
 > ![gobject_voting_result](https://assets.anonfork.io/gov_images/gobject_voting_result.png "Voting result")
 
-Now, your proposal is live! All that's left to do is monitor your proposal, this can be done at the following link: [TODO]().
+Now, your proposal is live! All that's left to do is monitor your proposal, this can be done at the following link: [https://explorer.anonfork.io/insight/govobjects](https://explorer.anonfork.io/insight/govobjects).
 
 ## Tips for a successful proposal
 
