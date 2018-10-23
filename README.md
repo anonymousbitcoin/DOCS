@@ -15,7 +15,7 @@ Below is a list of documents contained within this repo. Click on either of them
 |	[Masternode Setup Guide](anon_masternode_setup.md)		|	Guide on how to set up a masternode on a VPS													|
 |	[Masternode Sentinel Update Guide](sentinel_guide.md)	|	Guide on how to update sentinel																	|
 |	[Beginner wallet guide](simple_wallet_guide.md)			|	Guide on how to setup the Java wallet for the first time										|
-|	[Explorer Setup Guide](contributing.md)					|	Guide on how to setup the ANON Explorer (for advanced users)									|
+|	[Explorer Setup Guide](explorer_guide.md)				|	Guide on how to setup the ANON Explorer (for advanced users)									|
 |	[Code Contributing](contributing.md)					|	Standard guide on how to contribute code to ANON												|
 
 This list is constantly updated. If you wish to make modifications to any of the files, please fork and open a pull request.
