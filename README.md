@@ -11,6 +11,7 @@ Below is a list of documents contained within this repo. Click on either of them
 |	[ANON FAQ](anon_faq.md)									|	ANON Frequently Asked Questions																	|
 |	[Claiming BTC and ZCL](claiming_guide.md)				|	Guide on how to claim ANON from the airdrop														|
 |	[Masternode Governance Guide](governance_guide.md)		|	Overview of Decentralized Governance and how to submit and vote on proposals with masternodes	|
+|	[Governance Voting Guide](proposal_voting.md)			|	Guide on how to vote on proposals on the ANON blockchain										|
 |	[Masternode Setup Guide](anon_masternode_setup.md)		|	Guide on how to set up a masternode on a VPS													|
 |	[Masternode Sentinel Update Guide](sentinel_guide.md)	|	Guide on how to update sentinel																	|
 |	[Beginner wallet guide](simple_wallet_guide.md)			|	Guide on how to setup the Java wallet for the first time										|
