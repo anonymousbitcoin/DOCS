@@ -2,16 +2,18 @@
 
 Below is a list of documents contained within this repo. Click on either of them to open up the document.
 
-- [Issue Submission](issue_submission.md)
-- [ANON Full Specsheet](anon_spec_sheet.md)
-- [ANON Set Up Guide (Mac)](first_time_setup_mac.md)
-- [ANON Bounty Program](bounty_program.md)
-- [ANON FAQ](anon_faq.md)
-- [Claiming BTC and ZCL](claiming_guide.md)
-- [Masternode Governance Guide](governance_guide.md)
-- [Masternode Setup Guide](anon_masternode_setup.md)
-- [Masternode Sentinel Update Guide](sentinel_guide.md)
-- [Beginner wallet guide](simple_wallet_guide.md)
-- [Code Contributing](contributing.md)
+|	Link													|	Description																						|
+|:-															|:-																									|
+|	[Issue Submission](issue_submission.md)					|	Short guide detailing how to submit an issue to ANON											|
+|	[ANON Full Spec Sheet](anon_spec_sheet.md)				|	Full Spec Sheet containing key information about ANON											|
+|	[ANON Set Up Guide (Mac)](first_time_setup_mac.md)		|	Guide to set up a full node on a MAC															|
+|	[ANON Bounty Program](bounty_program.md)				|	Comprehensive breakdown of ANON's bounty program												|
+|	[ANON FAQ](anon_faq.md)									|	ANON Frequently Asked Questions																	|
+|	[Claiming BTC and ZCL](claiming_guide.md)				|	Guide on how to claim ANON from the airdrop														|
+|	[Masternode Governance Guide](governance_guide.md)		|	Overview of Decentralized Governance and how to submit and vote on proposals with masternodes	|
+|	[Masternode Setup Guide](anon_masternode_setup.md)		|	Guide on how to set up a masternode on a VPS													|
+|	[Masternode Sentinel Update Guide](sentinel_guide.md)	|	Guide on how to update sentinel																	|
+|	[Beginner wallet guide](simple_wallet_guide.md)			|	Guide on how to setup the Java wallet for the first time										|
+|	[Code Contributing](contributing.md)					|	Standard guide on how to contribute code to ANON												|
 
-This list is constantly updated. If you wish to make modifications to any of the files, please fork and open a pull request. 
+This list is constantly updated. If you wish to make modifications to any of the files, please fork and open a pull request.
