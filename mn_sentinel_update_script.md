@@ -1,7 +1,7 @@
 # Update Masternodes and Sentinel
 
 [![](https://img.shields.io/badge/ANON-1.3.0-green.svg)](https://github.com/anonymousbitcoin/anon/releases/tag/v1.3.0)
-[![](https://img.shields.io/badge/Sentinel-v1.1.1-green.svg)](https://github.com/anonymousbitcoin/sentinel/releases/tag/v1.1.1)
+[![](https://img.shields.io/badge/Sentinel-v1.1.2-green.svg)](https://github.com/anonymousbitcoin/sentinel/releases/tag/v1.1.2)
 
 It is required to update your masternodes and sentinel periodically. We at ANON know this can be a hassle for some people so we've comprised a short script to help speed things along.
 
