@@ -1,5 +1,8 @@
 # Anon Masternode setup guide
 
+[![](https://img.shields.io/badge/ANON-1.3.0-green.svg)](https://github.com/anonymousbitcoin/anon/releases/tag/v1.3.0)
+[![](https://img.shields.io/badge/Sentinel-v1.1.1-green.svg)](https://github.com/anonymousbitcoin/sentinel/releases/tag/v1.1.1)
+
 > In this guide we will install an ANON masternode through the terminal. 
 Let's get started!
 
