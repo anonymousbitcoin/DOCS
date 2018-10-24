@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/badge/Sentinel-v1.1.1-green.svg)](https://github.com/anonymousbitcoin/sentinel/releases/tag/v1.1.1)
 
+[![](https://img.shields.io/badge/ANON-1.3.0-green.svg)](https://github.com/anonymousbitcoin/anon/releases/tag/v1.3.0)
+
 Sentinel is an autonomous agent for persisting, processing and automating ANON governance objects and tasks. Sentinel is implemented as a Python application that binds to a local version anond instance on each ANON Masternode.
 
 This update is necessary as it fixes several bugs that were surfaced during the creation of proposals. This update serves to fix those errors ensuring that proposals remain on the network and are not automatically deleted by the Sentinel.
