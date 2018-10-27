@@ -10,23 +10,23 @@ SSH into your VPS where your masternode is located, in the root directory, paste
 **PLEASE NOTE, THIS SCRIPT WILL ONLY RUN IF YOU ARE ROOT USER!!** Please check back soon for the **NON-ROOT** guide and script.
 
 ```bash
-pkill anond && 
-rm -rf Anon-full-node-v1.3.0-linux.tar.gz && 
-rm -rf anond anon-cli && 
-wget https://github.com/anonymousbitcoin/anon/releases/download/v1.3.0/Anon-full-node-v1.3.0-linux.tar.gz && 
-tar -xvf Anon-full-node-v1.3.0-linux.tar.gz && 
-mv anond /usr/bin/ && 
-mv anon-cli /usr/bin/ && 
-rm -rf Anon-full-node-v1.3.0-linux.tar.gz && 
-sleep 10 && 
-anond -daemon && 
-sleep 20 && 
-anon-cli getinfo && 
-anon-cli masternode status &&
-cd ~/sentinel &&
-git fetch && 
-git checkout master && 
-git reset --hard origin/master &&
+pkill anond && \
+rm -rf Anon-full-node-v1.3.0-linux.tar.gz && \
+rm -rf anond anon-cli && \
+wget https://github.com/anonymousbitcoin/anon/releases/download/v1.3.0/Anon-full-node-v1.3.0-linux.tar.gz && \
+tar -xvf Anon-full-node-v1.3.0-linux.tar.gz && \
+mv anond /usr/bin/ && \
+mv anon-cli /usr/bin/ && \
+rm -rf Anon-full-node-v1.3.0-linux.tar.gz && \
+sleep 10 && \
+anond -daemon && \
+sleep 20 && \
+anon-cli getinfo && \
+anon-cli masternode status && \
+cd ~/sentinel && \
+git fetch && \
+git checkout master && \
+git reset --hard origin/master && \
 git pull origin master
 ```
 
