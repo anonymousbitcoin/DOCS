@@ -117,7 +117,7 @@ The maximum supply of ANON available is hard capped at 45,500,000.
 
 Coinburn is done to ensure the health of the current coins in circulation. All UNCLAIMED coins that were airdropped from Bitcoin and ZClassic on the 9/10 fork that are NOT claimed, will be considered unusable. 
 
-The **scheduled** coin burn date is set to **1st January 2019**. (Coin burn will be implemented at the block height of `37,000`. With an average block time of 10 minutes, this block falls around the date 26 January 2019.)
+The **scheduled** coin burn date is set to **Block height: 37,000**. Which falls within the month of **January 2019**. (With an average block time of 10 minutes, this block falls around the date 26 January 2019.)
 
 **NOTE:** Coinburn only pertains to Main net as there are no airdropped blocks in testnet.
 
