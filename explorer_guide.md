@@ -70,7 +70,7 @@ Using Vim or Nano, modify the `bitcore-node.json` file so that the `servicesConf
 "servicesConfig": {
     "bitcoind": {
       "spawn": {
-        "datadir": "/root/./anon/",
+        "datadir": "/root/.anon/",
         "exec": "/root/path/to/bitcore-node-anon/bin/anond"
       }
     }
