@@ -47,6 +47,9 @@ Next, we need to clone the `bitcore-node-anon` repository found [here](https://g
 <!-- MOVE THE ADDITIONAL STUFF TO THE BOTTOM -->
 
 ```bash
+# outside of libzmq
+cd ~
+
 # clone bitcore-node-anon
 git clone https://github.com/anonymousbitcoin/bitcore-node-anon.git
 
