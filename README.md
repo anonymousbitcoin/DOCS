@@ -1,7 +1,7 @@
 # Documentation and Guides for ANON
 
 [![](https://img.shields.io/badge/ANON-1.3.0-green.svg)](https://github.com/anonymousbitcoin/anon/releases/tag/v1.3.0)
-[![](https://img.shields.io/badge/Sentinel-v1.1.2-green.svg)](https://github.com/anonymousbitcoin/sentinel/releases/tag/v1.1.2)
+[![](https://img.shields.io/badge/Sentinel-v2.0.0-green.svg)](https://github.com/anonymousbitcoin/sentinel/releases/tag/v2.0.0)
 [![](https://img.shields.io/badge/Full_Node_Wallet-v1.1.1-green.svg)](https://github.com/anonymousbitcoin/anon-full-node-wallet/releases/tag/v1.1.1)
 
 Below is a list of documents contained within this repo. Click on either of them to open up the document.
